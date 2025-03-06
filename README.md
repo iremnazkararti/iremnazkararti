@@ -1,4 +1,7 @@
-<h1 align="center">Merhaba 👋, Ben İrem Naz Karartı</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Merhaba!+Ben+İrem+Naz+Karartı;Bilgisayar+Mühendisi;Makine+%C3%96%C4%9Frenmesi+%7C+Yapay+Zeka+%7C+IoT" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">Bilgisayar Mühendisliği Öğrencisi | Makine Öğrenmesi & Yapay Zeka | IoT & Veri Analizi</h3>
 
 ## 📝 Hakkımda
@@ -13,9 +16,17 @@
 ---
 
 ## 📢 Sosyal Medya Hesaplarım  
-<p align="left">
-<a href="https://linkedin.com/in/iremnazkararti](https://www.linkedin.com/in/iremnazkararti-bk2809/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>  
+<p align="center">
+  <a href="https://www.linkedin.com/in/iremnazkararti-bk2809/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:example@gmail.com">
+    <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/iremnazkararti">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -30,12 +41,26 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-</p>  
+</p>
 
 ---
 
-## 📊 GitHub İstatistiklerim  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iremnazkararti&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremnazkararti&theme=dark" alt="GitHub Streak Stats" />
-</p>  
+## 📊 GitHub İstatistikleri  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iremnazkararti&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremnazkararti&theme=highcontrast" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremnazkararti&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🎉 Eğlenceli Bir GIF
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+</p>
+
+---
