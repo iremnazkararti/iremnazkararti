@@ -55,6 +55,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremnazkararti&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iremnazkararti&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
