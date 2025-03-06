@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/iremnazkararti-bk2809/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:example@gmail.com">
+  <a href="mailto:iremnazkararti@gmail.com">
     <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/iremnazkararti">
@@ -41,13 +41,6 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://github.com/iremnazkararti/iremnazkararti/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
