@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Merhaba!+Ben+İrem+Naz+Karartı;Bilgisayar+Mühendisi;Makine+%C3%96%C4%9Frenmesi+%7C+Yapay+Zeka+%7C+IoT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Merhaba!+Ben+İrem+Naz+Karartı" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Bilgisayar Mühendisliği Öğrencisi | Makine Öğrenmesi & Yapay Zeka | IoT & Veri Analizi</h3>
+<h3 align="center">Bilgisayar Mühendisliği Öğrencisi | Makine Öğrenmesi & Yapay Zeka | Veri Analizi</h3>
 
 ## 📝 Hakkımda
 - 🎓 **Bilgisayar Mühendisliği** öğrencisiyim.  
@@ -56,12 +56,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremnazkararti&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iremnazkararti&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github.com/iremnazkararti/iremnazkararti/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
 
-## 🎉 Eğlenceli Bir GIF
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 </p>
