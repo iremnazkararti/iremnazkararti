@@ -14,8 +14,7 @@
 
 ## 📢 Sosyal Medya Hesaplarım  
 <p align="left">
-<a href="https://twitter.com/iremnazkararti" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://linkedin.com/in/iremnazkararti" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/iremnazkararti](https://www.linkedin.com/in/iremnazkararti-bk2809/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>  
 
 ---
