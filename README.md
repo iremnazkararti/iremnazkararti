@@ -5,7 +5,7 @@
 <h3 align="center">Bilgisayar Mühendisi| Makine Öğrenmesi & Yapay Zeka | Veri Analizi</h3>
 
 ## 📝 Hakkımda
-- 🎓 **Bilgisayar Mühendisliği** öğrencisiyim.  
+- 🎓 **Bilgisayar Mühendisliği** mezunuyum.  
 - 🌍 **Makine Öğrenmesi, Yapay Zeka ve IoT** alanlarında projeler geliştiriyorum.  
 - 🔬 **Sürdürülebilirlik ve karbon ayak izi** üzerine veri analizi ve tahmin modelleri geliştiriyorum.  
 - 📊 **Enerji üretimi tahmini** ve **arıza tahmini** üzerine çalışıyorum.  
