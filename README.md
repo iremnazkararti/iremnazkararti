@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Merhaba!+Ben+İrem+Naz+Karartı" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Bilgisayar Mühendisliği Öğrencisi | Makine Öğrenmesi & Yapay Zeka | Veri Analizi</h3>
+<h3 align="center">Bilgisayar Mühendisi| Makine Öğrenmesi & Yapay Zeka | Veri Analizi</h3>
 
 ## 📝 Hakkımda
 - 🎓 **Bilgisayar Mühendisliği** öğrencisiyim.  
